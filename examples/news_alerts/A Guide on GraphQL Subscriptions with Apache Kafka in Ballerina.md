@@ -24,7 +24,7 @@ The news alert system uses a GraphQL API. Internally, GraphQL uses Apache Kafka 
 
 Following is a diagram to show the high-level architecture of the system:
 
-![Architecture Diagram of GraphQL Subscription with Apache Kafka](resources/graphql-subscription-with-kafka-diagram.png)
+![Architecture Diagram of GraphQL Subscription with Apache Kafka](./resources/graphql-subscription-with-kafka-diagram.png)
 
 
 ### GraphQL API
